@@ -2,7 +2,7 @@
 int main(void){
 
 	puts("pai-pai");
-
+	ptus()
 	return 0;
 
 }
